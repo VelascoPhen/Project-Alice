@@ -13,6 +13,7 @@ Step 3: Make sure you're inside that folder you just typed.
 Step 4: Run this exact script: php -S localhost:8000
 Step 5: After running you should be able to see something like this
 - [Mon Dec 15 02:07:37 2025] PHP 8.x.x Development Server (http://localhost:8000) started
+(Keep the cmd running since it's your server)
 
 Step 6: Type this directly in web search bar
 - http://localhost:8000/CODE/HTML/menu_load.html
